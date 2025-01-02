@@ -1,4 +1,6 @@
-![masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGn-wpaT55yoa4R3xmCO_aVp-O5djZqh_yLmml5kziNA2wuGdfq9zvvdA&s)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGn-wpaT55yoa4R3xmCO_aVp-O5djZqh_yLmml5kziNA2wuGdfq9zvvdA&s" alt="Masterhead" style="max-width: 100%; height: auto;">
+</div>
 
 ## Hi there 👋
 ###
