@@ -8,7 +8,7 @@
 I'm Prashant Singh, currently living in Noida(Uttar Pradesh)
 
 - 🔭 I’m currently working as an AWS DevOps Engineer
-- 🌱 I’m currently learning Kubernetes and  
+- 🌱 I’m currently learning Kubernetes and preparing AWS Certification 
 - 📖 I write articles on https://medium.com/@singhprashant2599
 - 💬 Ask me about:- DevOps, Cloud Computing(AWS), Linux System Administrator, Python, Bash Scripting, Docker, Kubernetes, Git
 
